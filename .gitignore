@@ -1,0 +1,6 @@
+# Ignorar bases de datos
+*.db
+instance/
+
+# Ignorar archivos temporales de Python
+__pycache__/
